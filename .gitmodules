@@ -1,0 +1,3 @@
+[submodule "ref_streamlit_dashboard"]
+	path = ref_streamlit_dashboard
+	url = https://github.com/Sven-Bo/streamlit-sales-dashboard
